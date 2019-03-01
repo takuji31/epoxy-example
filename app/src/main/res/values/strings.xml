@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">epoxy-example</string>
+    <string name="blog_entry">ブログ記事</string>
 </resources>
